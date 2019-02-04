@@ -1,0 +1,244 @@
+{
+    "upcomingThreadsTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "George Constanza Live Chat"},
+                    "ThreadId": {"S": "0"},
+                    "SegmentId": {"S": "0"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Tony Soprano Fan Stream"},
+                    "ThreadId": {"S": "1"},
+                    "SegmentId": {"S": "1"},
+                    "liveStart": {"S": "1549311743"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Love Island Episode 3 Discussion"},
+                    "ThreadId": {"S": "2"},
+                    "SegmentId": {"S": "2"},
+                    "liveStart": {"S": "1549311743"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Kramer Lols"},
+                    "ThreadId": {"S": "3"},
+                    "SegmentId": {"S": "0"},
+                    "liveStart": {"S": "1549311743"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Love Island Aftershow Discussion"},
+                    "ThreadId": {"S": "4"},
+                    "SegmentId": {"S": "2"},
+                    "liveStart": {"S": "1551720835"},
+                    "liveEnd": {"S": "1551730835"},
+                    "status": {"S":"ended"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Overwatch Pro League Stream Party"},
+                    "ThreadId": {"S": "5"},
+                    "SegmentId": {"S": "3"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Dudes vs Chicks Fight"},
+                    "ThreadId": {"S": "6"},
+                    "SegmentId": {"S": "3"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "WoW Xpac Speculation"},
+                    "ThreadId": {"S": "7"},
+                    "SegmentId": {"S": "4"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"ended"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "World First Race"},
+                    "ThreadId": {"S": "8"},
+                    "SegmentId": {"S": "4"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Starcraft Prostream"},
+                    "ThreadId": {"S": "9"},
+                    "SegmentId": {"S": "5"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Divinity 2 Playthrough"},
+                    "ThreadId": {"S": "10"},
+                    "SegmentId": {"S": "6"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Divinity 2 Playthrough"},
+                    "ThreadId": {"S": "11"},
+                    "SegmentId": {"S": "6"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "SUPERBOWL!!!!"},
+                    "ThreadId": {"S": "12"},
+                    "SegmentId": {"S": "7"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Man City vs Real Madrid - Champion's League"},
+                    "ThreadId": {"S": "13"},
+                    "SegmentId": {"S": "8"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"upcoming"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Is this sub dead?"},
+                    "ThreadId": {"S": "14"},
+                    "SegmentId": {"S": "9"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "US Masters"},
+                    "ThreadId": {"S": "15"},
+                    "SegmentId": {"S": "10"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "TRUMP TRAIN"},
+                    "ThreadId": {"S": "16"},
+                    "SegmentId": {"S": "12"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Yadda yadda yaadddddaaa..."},
+                    "ThreadId": {"S": "17"},
+                    "SegmentId": {"S": "13"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"ended"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "Same shit"},
+                    "ThreadId": {"S": "18"},
+                    "SegmentId": {"S": "14"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ThreadName": {"S": "HELLO WORLD"},
+                    "ThreadId": {"S": "19"},
+                    "SegmentId": {"S": "15"},
+                    "liveStart": {"S": "1551730835"},
+                    "liveEnd": {"S": "1551738035"},
+                    "status": {"S":"live"}
+                }
+            }
+        }
+    ]
+}
