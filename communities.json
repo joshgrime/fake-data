@@ -1,0 +1,44 @@
+{
+    "communitiesTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "CommunityName": {"S": "TV"},
+                    "CommunityId": {"S": "0"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CommunityName": {"S": "Gaming"},
+                    "CommunityId": {"S": "1"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CommunityName": {"S": "Sport"},
+                    "CommunityId": {"S": "2"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CommunityName": {"S": "Politics"},
+                    "CommunityId": {"S": "3"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "CommunityName": {"S": "Random"},
+                    "CommunityId": {"S": "4"}
+                }
+            }
+        }
+    ]
+}
