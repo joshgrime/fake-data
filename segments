@@ -1,0 +1,139 @@
+{
+    "segmentsTable": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Seinfeld"},
+                    "SegmentId": {"S": "0"},
+                    "CommunityId": {"S": "0"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "The Sopranos"},
+                    "SegmentId": {"S": "1"},
+                    "CommunityId": {"S": "0"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Love Island"},
+                    "SegmentId": {"S": "2"},
+                    "CommunityId": {"S": "0"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Overwatch"},
+                    "SegmentId": {"S": "3"},
+                    "CommunityId": {"S": "1"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "World of Warcraft"},
+                    "SegmentId": {"S": "4"},
+                    "CommunityId": {"S": "1"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Starcraft II"},
+                    "SegmentId": {"S": "5"},
+                    "CommunityId": {"S": "1"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Divinity 2"},
+                    "SegmentId": {"S": "6"},
+                    "CommunityId": {"S": "1"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Football"},
+                    "SegmentId": {"S": "7"},
+                    "CommunityId": {"S": "2"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Soccer"},
+                    "SegmentId": {"S": "8"},
+                    "CommunityId": {"S": "2"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Rugby"},
+                    "SegmentId": {"S": "9"},
+                    "CommunityId": {"S": "2"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Golf"},
+                    "SegmentId": {"S": "10"},
+                    "CommunityId": {"S": "2"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "US Election"},
+                    "SegmentId": {"S": "11"},
+                    "CommunityId": {"S": "3"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "UK Election"},
+                    "SegmentId": {"S": "12"},
+                    "CommunityId": {"S": "3"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Britain Leaves"},
+                    "SegmentId": {"S": "13"},
+                    "CommunityId": {"S": "3"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "SegmentName": {"S": "Hello World Party"},
+                    "SegmentId": {"S": "14"},
+                    "CommunityId": {"S": "4"}
+                }
+            }
+        }
+    ]
+}
